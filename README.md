@@ -8,3 +8,7 @@ update design:
 <br><br>
 ![nshop](https://user-images.githubusercontent.com/116552870/233777464-ff8e6a74-974c-48f6-8daa-82a0b9a1d0b2.jpg)
 
+<br><br>
+update design:
+<br><br>
+![shop](https://user-images.githubusercontent.com/116552870/233793282-cd1e47be-b0de-40ec-b62d-89f55940d32c.gif)
